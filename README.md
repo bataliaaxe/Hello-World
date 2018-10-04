@@ -1,2 +1,6 @@
 # Hello-World
-Just another repository
+Hi Folks,
+
+This is my attempt to get more familiar with the GitHub environment.
+
+MAB
